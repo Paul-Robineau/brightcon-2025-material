@@ -7717,23 +7717,23 @@
     },
     "F_HOUS": {
         "name": "final consumption expenditure by households",
-        "unit": "unit"
+        "unit": "items"
     },
     "F_NPSH": {
         "name": "final consumption expenditure by non-profit organisations serving households (npish)",
-        "unit": "unit"
+        "unit": "items"
     },
     "F_GOVE": {
         "name": "final consumption expenditure by government",
-        "unit": "unit"
+        "unit": "items"
     },
     "I_CHIN": {
         "name": "changes in inventories",
-        "unit": "unit"
+        "unit": "items"
     },
     "I_CHVA": {
         "name": "changes in valuables",
-        "unit": "unit"
+        "unit": "items"
     },
     "Carbon_dioxide__biogenic_Air": {
         "unit": "tonne",
