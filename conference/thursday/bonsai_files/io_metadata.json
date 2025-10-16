@@ -4796,11 +4796,11 @@
         "unit": "TJ"
     },
     "M_ADDC": {
-        "name": "additives/blending components(market for)",
+        "name": "additives/blending components (market for)",
         "unit": "tonne"
     },
     "M_AGSL": {
-        "name": "aviation gasoline(market for)",
+        "name": "aviation gasoline (market for)",
         "unit": "tonne"
     },
     "M_ALUM_01_RES": {
@@ -4812,27 +4812,27 @@
         "unit": "tonne"
     },
     "M_ALUW": {
-        "name": "recycling of aluminium(market for)",
+        "name": "recycling of aluminium (market for)",
         "unit": "tonne"
     },
     "M_AL_INCI": {
-        "name": "incineration with energy recovery of aluminium(market for)",
+        "name": "incineration with energy recovery of aluminium (market for)",
         "unit": "tonne"
     },
     "M_AL_LAND": {
-        "name": "landfill of aluminium(market for)",
+        "name": "landfill of aluminium (market for)",
         "unit": "tonne"
     },
     "M_ANTH": {
-        "name": "anthracite(market for)",
+        "name": "anthracite (market for)",
         "unit": "tonne"
     },
     "M_ASHW": {
-        "name": "recycling of ashes(market for)",
+        "name": "recycling of ashes (market for)",
         "unit": "tonne"
     },
     "M_AS_LAND": {
-        "name": "landfill of ashes(market for)",
+        "name": "landfill of ashes (market for)",
         "unit": "tonne"
     },
     "M_Agavs": {
@@ -4888,19 +4888,19 @@
         "unit": "tonne"
     },
     "M_BA_INCI_no_recov": {
-        "name": "incineration without energy recovery of batteries and accumulators waste(market for)",
+        "name": "incineration without energy recovery of batteries and accumulators waste (market for)",
         "unit": "tonne"
     },
     "M_BA_LAND": {
-        "name": "landfill of batteries and accumulators waste(market for)",
+        "name": "landfill of batteries and accumulators waste (market for)",
         "unit": "tonne"
     },
     "M_BA_RECY": {
-        "name": "recycling of batteries and accumulators waste(market for)",
+        "name": "recycling of batteries and accumulators waste (market for)",
         "unit": "tonne"
     },
     "M_BIOD": {
-        "name": "biodiesels(market for)",
+        "name": "biodiesels (market for)",
         "unit": "tonne"
     },
     "M_BIOF": {
@@ -4908,7 +4908,7 @@
         "unit": "tonne"
     },
     "M_BIOG": {
-        "name": "biogasoline(market for)",
+        "name": "biogasoline (market for)",
         "unit": "tonne"
     },
     "M_BIOP": {
@@ -4920,11 +4920,11 @@
         "unit": "tonne"
     },
     "M_BITU": {
-        "name": "bitumen(market for)",
+        "name": "bitumen (market for)",
         "unit": "tonne"
     },
     "M_BKBP": {
-        "name": "bkb/peat briquettes(market for)",
+        "name": "bkb/peat briquettes (market for)",
         "unit": "tonne"
     },
     "M_BOTL_GLM": {
@@ -5096,11 +5096,11 @@
         "unit": "tonne"
     },
     "M_CHAR": {
-        "name": "charcoal(market for)",
+        "name": "charcoal (market for)",
         "unit": "tonne"
     },
     "M_CHEM": {
-        "name": "chemicals nec(market for)",
+        "name": "chemicals nec (market for)",
         "unit": "tonne"
     },
     "M_CHMF": {
@@ -5116,11 +5116,11 @@
         "unit": "tonne"
     },
     "M_COKC": {
-        "name": "coking coal(market for)",
+        "name": "coking coal (market for)",
         "unit": "tonne"
     },
     "M_COKE": {
-        "name": "coke oven coke(market for)",
+        "name": "coke oven coke (market for)",
         "unit": "tonne"
     },
     "M_CONTAI_GLS": {
@@ -5128,7 +5128,7 @@
         "unit": "tonne"
     },
     "M_CONW": {
-        "name": "recycling of construction waste(market for)",
+        "name": "recycling of construction waste (market for)",
         "unit": "tonne"
     },
     "M_COPO": {
@@ -5140,27 +5140,27 @@
         "unit": "tonne"
     },
     "M_COPW": {
-        "name": "recycling of copper(market for)",
+        "name": "recycling of copper (market for)",
         "unit": "tonne"
     },
     "M_COTA": {
-        "name": "coal tar(market for)",
+        "name": "coal tar (market for)",
         "unit": "tonne"
     },
     "M_CO_INCI": {
-        "name": "incineration with energy recovery of construction waste(market for)",
+        "name": "incineration with energy recovery of construction waste (market for)",
         "unit": "tonne"
     },
     "M_CO_INCI_no_recov": {
-        "name": "incineration without energy recovery of construction waste(market for)",
+        "name": "incineration without energy recovery of construction waste (market for)",
         "unit": "tonne"
     },
     "M_CO_LAND": {
-        "name": "landfill of construction waste(market for)",
+        "name": "landfill of construction waste (market for)",
         "unit": "tonne"
     },
     "M_CO_OTHE": {
-        "name": "other disposal of construction waste(market for)",
+        "name": "other disposal of construction waste (market for)",
         "unit": "tonne"
     },
     "M_CRMC": {
@@ -5168,11 +5168,11 @@
         "unit": "tonne"
     },
     "M_CU_INCI": {
-        "name": "incineration with energy recovery of copper(market for)",
+        "name": "incineration with energy recovery of copper (market for)",
         "unit": "tonne"
     },
     "M_CU_LAND": {
-        "name": "landfill of copper(market for)",
+        "name": "landfill of copper (market for)",
         "unit": "tonne"
     },
     "M_Cabbs": {
@@ -5408,7 +5408,7 @@
         "unit": "tonne"
     },
     "M_Copra": {
-        "name": "copra(market for)",
+        "name": "copra (market for)",
         "unit": "tonne"
     },
     "M_Cottd": {
@@ -5440,35 +5440,35 @@
         "unit": "tonne"
     },
     "M_DE_INCI": {
-        "name": "incineration with energy recovery of discarded equipment(market for)",
+        "name": "incineration with energy recovery of discarded equipment (market for)",
         "unit": "tonne"
     },
     "M_DE_INCI_no_recov": {
-        "name": "incineration without energy recovery of discarded equipment(market for)",
+        "name": "incineration without energy recovery of discarded equipment (market for)",
         "unit": "tonne"
     },
     "M_DE_LAND": {
-        "name": "landfill of discarded equipment(market for)",
+        "name": "landfill of discarded equipment (market for)",
         "unit": "tonne"
     },
     "M_DE_OTHE": {
-        "name": "other disposal of discarded equipment(market for)",
+        "name": "other disposal of discarded equipment (market for)",
         "unit": "tonne"
     },
     "M_DE_RECY": {
-        "name": "recycling of discarded equipment(market for)",
+        "name": "recycling of discarded equipment (market for)",
         "unit": "tonne"
     },
     "M_DOIL": {
-        "name": "gas/diesel oil(market for)",
+        "name": "gas/diesel oil (market for)",
         "unit": "tonne"
     },
     "M_DV_LAND": {
-        "name": "landfill of discarded vehicles(market for)",
+        "name": "landfill of discarded vehicles (market for)",
         "unit": "tonne"
     },
     "M_DV_RECY": {
-        "name": "recycling of discarded vehicles(market for)",
+        "name": "recycling of discarded vehicles (market for)",
         "unit": "tonne"
     },
     "M_Dates": {
@@ -5488,7 +5488,7 @@
         "unit": "tonne"
     },
     "M_ETHA": {
-        "name": "ethane(market for)",
+        "name": "ethane (market for)",
         "unit": "tonne"
     },
     "M_Eggpl": {
@@ -5512,7 +5512,7 @@
         "unit": "tonne"
     },
     "M_FOIL": {
-        "name": "heavy fuel oil(market for)",
+        "name": "heavy fuel oil (market for)",
         "unit": "tonne"
     },
     "M_FOIL_PLA": {
@@ -5520,7 +5520,7 @@
         "unit": "tonne"
     },
     "M_FOOD_w_water": {
-        "name": "waste water treatment of food(market for)",
+        "name": "waste water treatment of food (market for)",
         "unit": "tonne"
     },
     "M_FORE": {
@@ -5528,11 +5528,11 @@
         "unit": "tonne"
     },
     "M_FO_OTHE": {
-        "name": "other disposal of food(market for)",
+        "name": "other disposal of food (market for)",
         "unit": "tonne"
     },
     "M_FO_RECY": {
-        "name": "recycling of food(market for)",
+        "name": "recycling of food (market for)",
         "unit": "tonne"
     },
     "M_FSHP": {
@@ -5560,7 +5560,7 @@
         "unit": "tonne"
     },
     "M_Fat_live": {
-        "name": "fatty liver preparations(market for)",
+        "name": "fatty liver preparations (market for)",
         "unit": "tonne"
     },
     "M_Fat_nes": {
@@ -5568,11 +5568,11 @@
         "unit": "tonne"
     },
     "M_Fat_poul": {
-        "name": "fat of poultry(market for)",
+        "name": "fat of poultry (market for)",
         "unit": "tonne"
     },
     "M_Fat_poul_ren": {
-        "name": "fat of poultry, rendered(market for)",
+        "name": "fat of poultry, rendered (market for)",
         "unit": "tonne"
     },
     "M_Fat_sheep": {
@@ -5708,19 +5708,19 @@
         "unit": "tonne"
     },
     "M_GASE": {
-        "name": "natural gas extraction(market for)",
+        "name": "natural gas extraction (market for)",
         "unit": "tonne"
     },
     "M_GASL": {
-        "name": "natural gas liquids(market for)",
+        "name": "natural gas liquids (market for)",
         "unit": "tonne"
     },
     "M_GCOK": {
-        "name": "gas coke(market for)",
+        "name": "gas coke (market for)",
         "unit": "tonne"
     },
     "M_GJET": {
-        "name": "gasoline type jet fuel(market for)",
+        "name": "gasoline type jet fuel (market for)",
         "unit": "tonne"
     },
     "M_GLAS": {
@@ -5732,23 +5732,23 @@
         "unit": "tonne"
     },
     "M_GLAS_reuse": {
-        "name": "collection of glass bottles service(market for)",
+        "name": "collection of glass bottles service (market for)",
         "unit": "tonne"
     },
     "M_GLAW": {
-        "name": "recycling of glass(market for)",
+        "name": "recycling of glass (market for)",
         "unit": "tonne"
     },
     "M_GL_INCI": {
-        "name": "incineration with energy recovery of glass(market for)",
+        "name": "incineration with energy recovery of glass (market for)",
         "unit": "tonne"
     },
     "M_GL_INCI_no_recov": {
-        "name": "incineration without energy recovery of glass(market for)",
+        "name": "incineration without energy recovery of glass (market for)",
         "unit": "tonne"
     },
     "M_GL_LAND": {
-        "name": "landfill of glass(market for)",
+        "name": "landfill of glass (market for)",
         "unit": "tonne"
     },
     "M_Garlc": {
@@ -5816,7 +5816,7 @@
         "unit": "tonne"
     },
     "M_Grapt": {
-        "name": "must of grape(market for)",
+        "name": "must of grape (market for)",
         "unit": "tonne"
     },
     "M_Grou_prep": {
@@ -5832,23 +5832,23 @@
         "unit": "tonne"
     },
     "M_HA_INCI": {
-        "name": "incineration with energy recovery of hazardous waste(market for)",
+        "name": "incineration with energy recovery of hazardous waste (market for)",
         "unit": "tonne"
     },
     "M_HA_INCI_no_recov": {
-        "name": "incineration without energy recovery of hazardous waste(market for)",
+        "name": "incineration without energy recovery of hazardous waste (market for)",
         "unit": "tonne"
     },
     "M_HA_LAND": {
-        "name": "landfill of hazardous waste(market for)",
+        "name": "landfill of hazardous waste (market for)",
         "unit": "tonne"
     },
     "M_HA_OTHE": {
-        "name": "other disposal of hazardous waste(market for)",
+        "name": "other disposal of hazardous waste (market for)",
         "unit": "tonne"
     },
     "M_HA_RECY": {
-        "name": "recycling of hazardous waste(market for)",
+        "name": "recycling of hazardous waste (market for)",
         "unit": "tonne"
     },
     "M_HWAT": {
@@ -5892,35 +5892,35 @@
         "unit": "tonne"
     },
     "M_INCF": {
-        "name": "incineration with energy recovery of food(market for)",
+        "name": "incineration with energy recovery of food (market for)",
         "unit": "tonne"
     },
     "M_INCF_no_recov": {
-        "name": "incineration without energy recovery of food(market for)",
+        "name": "incineration without energy recovery of food (market for)",
         "unit": "tonne"
     },
     "M_INCL": {
-        "name": "incineration with energy recovery of plastic/rubber(market for)",
+        "name": "incineration with energy recovery of plastic/rubber (market for)",
         "unit": "tonne"
     },
     "M_INCL_no_recov": {
-        "name": "incineration without energy recovery of plastic and rubber(market for)",
+        "name": "incineration without energy recovery of plastic and rubber (market for)",
         "unit": "tonne"
     },
     "M_INCP": {
-        "name": "incineration with energy recovery of paper(market for)",
+        "name": "incineration with energy recovery of paper (market for)",
         "unit": "tonne"
     },
     "M_INCP_no_recov": {
-        "name": "incineration without energy recovery of paper(market for)",
+        "name": "incineration without energy recovery of paper (market for)",
         "unit": "tonne"
     },
     "M_INCW": {
-        "name": "incineration with energy recovery of wood(market for)",
+        "name": "incineration with energy recovery of wood (market for)",
         "unit": "tonne"
     },
     "M_INCW_no_recovery": {
-        "name": "incineration without energy recovery of wood waste(market for)",
+        "name": "incineration without energy recovery of wood waste (market for)",
         "unit": "tonne"
     },
     "M_IRON": {
@@ -6044,7 +6044,7 @@
         "unit": "tonne"
     },
     "M_Kfert": {
-        "name": "k fertilizer(market for)",
+        "name": "k fertilizer (market for)",
         "unit": "tonne"
     },
     "M_Kiwi": {
@@ -6056,19 +6056,19 @@
         "unit": "tonne"
     },
     "M_LANF": {
-        "name": "landfill of food(market for)",
+        "name": "landfill of food (market for)",
         "unit": "tonne"
     },
     "M_LANL": {
-        "name": "landfill of plastic and rubber(market for)",
+        "name": "landfill of plastic and rubber (market for)",
         "unit": "tonne"
     },
     "M_LANP": {
-        "name": "landfill of paper(market for)",
+        "name": "landfill of paper (market for)",
         "unit": "tonne"
     },
     "M_LANW": {
-        "name": "landfill of wood(market for)",
+        "name": "landfill of wood (market for)",
         "unit": "tonne"
     },
     "M_LETH": {
@@ -6076,7 +6076,7 @@
         "unit": "tonne"
     },
     "M_LIBC": {
-        "name": "lignite/brown coal(market for)",
+        "name": "lignite/brown coal (market for)",
         "unit": "tonne"
     },
     "M_LPGA": {
@@ -6084,7 +6084,7 @@
         "unit": "tonne"
     },
     "M_LUBR": {
-        "name": "lubricants(market for)",
+        "name": "lubricants (market for)",
         "unit": "tonne"
     },
     "M_LZTO": {
@@ -6096,15 +6096,15 @@
         "unit": "tonne"
     },
     "M_LZTW": {
-        "name": "recycling of lead, zinc and tin(market for)",
+        "name": "recycling of lead, zinc and tin (market for)",
         "unit": "tonne"
     },
     "M_LZT_INCI": {
-        "name": "incineration with energy recovery of lead, zinc and tin(market for)",
+        "name": "incineration with energy recovery of lead, zinc and tin (market for)",
         "unit": "tonne"
     },
     "M_LZT_LAND": {
-        "name": "landfill of lead, zinc and tin(market for)",
+        "name": "landfill of lead, zinc and tin (market for)",
         "unit": "tonne"
     },
     "M_Lacte": {
