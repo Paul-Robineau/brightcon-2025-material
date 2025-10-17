@@ -1,0 +1,10 @@
+name: flodym
+channels:
+  - conda-forge
+dependencies:
+  - python==3.12
+  - ipykernel
+  - nb_conda_kernels
+  - pip:
+    - flodym>=0.5.1
+    - jupyterlab-rise
