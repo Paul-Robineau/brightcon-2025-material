@@ -1,0 +1,10 @@
+name: premise
+channels:
+  - conda-forge
+  - cmutel
+dependencies:
+  - python==3.11
+  - brightway25
+  - premise
+  - ipykernel
+  - nb_conda_kernels

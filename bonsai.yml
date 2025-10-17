@@ -1,0 +1,15 @@
+name: bonsai
+channels:
+  - cmutel
+  - conda-forge
+  - defaults
+dependencies:
+  - bw2data >= 4.0.DEV54
+  - bw2analyzer
+  - ipykernel
+  - nb_conda_kernels
+  - jinja2
+  - pypardiso
+  - pip
+  - pip:
+    - bw2io @ git+https://github.com/mfastudillo/brightway2-io.git@io

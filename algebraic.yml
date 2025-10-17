@@ -1,0 +1,12 @@
+name: algebraic
+channels:
+  - conda-forge
+  - cmutel
+dependencies:
+  - python==3.12
+  - multifunctional
+  - ipykernel
+  - nb_conda_kernels
+  - pypardiso
+  - pip:
+    - lca_algebraic_bw25==1.3.1
